@@ -1,0 +1,49 @@
+///
+Usuario1
+Password:
+contraseña
+Nombre:
+Juancinio Flores
+Sexo:
+Masculinario (chef hombre)
+Edad:
+999
+Correo:
+queleimporta@adiosmail.com
+Direccion:
+ElmismísimoInfierno 77 interior 666
+Telefono:
+89 1212 1212
+///
+Satan
+Password:
+666
+Nombre:
+Lucía Fernanda
+Sexo:
+Femeninion (ion mujer)
+Edad:
+20
+Correo:
+que_23_leimporta@adiosmail.com
+Direccion:
+A mitad de la nada 109 interior 3
+Telefono:
+12 3114 1156
+///
+Dios
+Password:
+777
+Nombre:
+Yahvé Usted
+Sexo:
+Divino
+Edad:
+Infinita
+Correo:
+ChuchoEsMijo@Dios.com
+Direccion:
+Con su tatara abuelita
+Telefono:
+no tiene
+
